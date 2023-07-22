@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielaLudwig1
+- 👋 Hi
 
 
 <!---
