@@ -12,18 +12,22 @@ You can click the Preview link to take a look at your changes.
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielaLudwig1&count_private=true&show_icons=trueline_height=21&theme=tokyonight">
    <br>
    <br>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaLudwig1&hide_progress=true&&theme=tokyonight">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaLudwig1&hide_progress=true&layout=compact&&theme=tokyonight">
    </p>
    <br>
 
 </div>
-𝙰𝚙𝚛𝚎𝚗𝚍𝚎𝚗𝚍𝚘 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊ç𝚊𝚘
 
 
-- 🔭 Técnico em Desenvolvimento de Sistemas
-- Conhecimentos como QA
-
-LINGUAGENS USADAS
+<h3 align=center>Experiência</h3>
+<p align=center> 
+ - 🔭 Técnico em Desenvolvimento de Sistemas
+<br>
+ - Dev Backend
+ <br>
+ - 🐞 Conhecimentos como QA
+</p>
+<h2 align=center>Linguagens Utilizadas</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dani-NODDE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
