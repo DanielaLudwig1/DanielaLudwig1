@@ -10,9 +10,11 @@ You can click the Preview link to take a look at your changes.
    --->
    <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielaLudwig1&count_private=true&show_icons=trueline_height=21&theme=tokyonight">
-
+   <br>
+   <br>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaLudwig1&hide_progress=true&&theme=tokyonight">
    </p>
+   <br>
 
 </div>
 𝙰𝚙𝚛𝚎𝚗𝚍𝚎𝚗𝚍𝚘 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊ç𝚊𝚘
