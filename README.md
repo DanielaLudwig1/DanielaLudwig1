@@ -3,7 +3,7 @@
 DanielaLudwig1/DanielaLudwig1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Olá
+# Olá 
  <div>
   
    <!---![DanielaLudwig1 GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielaLudwig1&count_private=true&show_icons=trueline_height=21&theme=tokyonight)
@@ -27,8 +27,8 @@ You can click the Preview link to take a look at your changes.
  <br>
  - 🐞 Conhecimentos como QA
 </p>
-<h2 align=center>Linguagens Utilizadas</h2>
-<div style="display: inline_block"><br>
+<h2 align=center>Conhecimento em:</h2>
+<div style="display: inline_block" align=center><br>
   <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dani-NODDE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Dani-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">| 
