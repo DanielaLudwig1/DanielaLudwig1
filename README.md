@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielaLudwig1&count_private=true&show_icons=trueline_height=21&theme=tokyonight">
    <br>
    <br>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaLudwig1&hide_progress=true&layout=compact&&theme=tokyonight">
+   <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaLudwig1&layout=compact&langs_count=6&theme=tokyonight">
    </p>
    <br>
 
