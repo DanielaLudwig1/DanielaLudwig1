@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
    <!---![DanielaLudwig1 GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielaLudwig1&count_private=true&show_icons=trueline_height=21&theme=tokyonight)
    --->
    <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielaLudwig1&count_private=true&show_icons=trueline_height=21&theme=tokyonight">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielaLudwig1&show_icons=true&theme=tokyonight&line_height=21&include_all_commits=true&count_private=true">
    <br>
    <br>
    <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaLudwig1&layout=compact&langs_count=6&theme=tokyonight">
