@@ -1,9 +1,8 @@
-<!--- 👋 Hi
 <!---
 DanielaLudwig1/DanielaLudwig1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Olá 
+# Hi✨
  <div>
   
    <!---![DanielaLudwig1 GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielaLudwig1&count_private=true&show_icons=trueline_height=21&theme=tokyonight)
@@ -37,6 +36,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Dani-NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Dani-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Dani-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dani-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    <!--<img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/127230187/227042992-f884aef7-a58a-47f5-9f2e-5c7e43eaa284.png">
    --->
