@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
  <div>
 <p style="display: inline-block;" align="center" >
  <a href="https://github.com/DanielaLudwig1"> 
-   <img align= center height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielaLudwig1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"">
+   <img align= center height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielaLudwig1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
 <br>
 <br>
    <img align= center  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaLudwig1&line_height=21&layout=compact&langs_count=6&theme=tokyonight">
