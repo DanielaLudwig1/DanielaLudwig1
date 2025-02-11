@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align=center>Experiência</h3>
 <p align=center> 
 <br>
-- 💻 Trabalhando na LbrIT / Liberali - SAP Gold Partner (Backend & QA)
+- 💻 Trabalhando na LbrIT (Backend & QA)
  <br>
  - Dev Backend (Júnior)
 <br>
