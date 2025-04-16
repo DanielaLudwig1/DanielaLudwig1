@@ -18,9 +18,12 @@ You can click the Preview link to take a look at your changes.
 <h3 align=center>Experiência</h3>
 <p align=center> 
 <br>
-- 💻 Trabalhando na LbrIT (Backend & QA)
+- 💻 Trabalhando na LbrIT Coordenador de Suporte
+ <br>
+ *Ja tive experiência com*
  <br>
  - Dev Backend (Júnior)
+ - QA
 <br>
  - 🔭 Técnico em Desenvolvimento de Sistemas
  <br>
