@@ -20,12 +20,13 @@ You can click the Preview link to take a look at your changes.
 <br>
 - 💻 Trabalhando na LbrIT Coordenador de Suporte
  <br>
- *Ja tive experiência com*
+ Experiência como:
  <br>
  - Dev Backend (Júnior)
+ <br>
  - QA
 <br>
- - 🔭 Técnico em Desenvolvimento de Sistemas
+ - 🔭 Técnico em Analise e Desenvolvimento de Sistemas
  <br>
 </p>
 <h2 align=center> Linguagens </h2>
@@ -38,6 +39,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Dani-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dani-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Dani-MySQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
    <!--<img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/127230187/227042992-f884aef7-a58a-47f5-9f2e-5c7e43eaa284.png">
    --->
 </div>
